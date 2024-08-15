@@ -1,0 +1,18 @@
+.bg{
+    background-color: #496ca1;
+    padding: 2rem;
+    height: 500px;
+    text-align: center;
+}
+.heading, .description{
+    max-width: 680px;
+    margin: auto;
+}
+
+.heading{
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+}
+.description{
+    font-size: 1.2rem;
+}

@@ -1,0 +1,33 @@
+/* .bg{
+    background-color: #496ca1;
+    padding: 2rem;
+    height: 500px;
+    text-align: center;
+} */
+
+/* .heading, .description{
+    max-width: 680px;
+    margin: auto;
+}
+
+.heading{
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+}
+.description{
+    font-size: 1.2rem;
+} */
+
+.prices{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    align-items: center;
+    position: relative;
+    top: -330px;
+}
+.nothing{
+    color: black;
+    font-size: 3rem;
+    text-align: center;
+}
